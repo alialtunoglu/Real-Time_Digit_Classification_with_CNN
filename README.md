@@ -1,0 +1,2 @@
+# Real-Time_Digit_Classification_with_CNN
+ Bu depo, gerçek zamanlı rakam sınıflandırma için kendi oluşturduğum veri setini kullanarak geliştirdiğim bir Convolutional Neural Network (CNN) projesini içermektedir. Proje, rakamları tanıma ve sınıflandırma konusunda yüksek doğruluk oranı hedeflemekte ve gerçek zamanlı uygulamalar için optimize edilmiştir. Veri seti, çeşitli yazı tipleri ve boyutlarda elle yazılmış rakamlardan oluşmaktadır, böylece modelin genelleme yeteneği artırılmıştır.
